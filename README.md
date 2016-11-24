@@ -1,4 +1,3 @@
-Pokemon Components
+Pokedex
 ==================
-
-An exercise in structuring your browser JavaScript in a Rails application.
+Created a Pokedex with RoR and JQuery using http://pokeapi.co/
